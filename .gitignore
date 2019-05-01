@@ -1,0 +1,7 @@
+
+*.dll
+**/packages
+**/ReadingList/bin
+**/ReadingList/obj
+**/ReadingList/Properties
+**/ReadingList/v16
